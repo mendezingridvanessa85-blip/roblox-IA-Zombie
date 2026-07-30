@@ -1,0 +1,11 @@
+--!strict
+-- Server-only integration examples:
+-- local ZombieService = require(game.ServerScriptService.ZombieSystem.ZombieService)
+-- local clone = workspace.Zombie:Clone(); clone.Parent = workspace; clone:PivotTo(CFrame.new(0, 5, 0))
+-- ZombieService:Stun(workspace.Zombie, 2)
+-- workspace.Zombie:SetAttribute("AttackDamage", 25)
+-- workspace.Zombie:SetAttribute("DetectionRange", 80)
+-- workspace.Zombie:SetAttribute("RunSpeed", 18)
+-- workspace.Zombie:SetAttribute("DebugMode", true) -- Shows every candidate route and the winning score.
+-- Runtime diagnostics: AIState, NavigationMode, PathScore, PathCandidateIndex, PathWaypointCount, PathJumpCount, PathFailures.
+return "ZombieSystem: clone models named Zombie or set IsZombie=true. The server evaluates multiple routes, predicts moving targets, remembers last known positions, and exposes live diagnostic attributes."
