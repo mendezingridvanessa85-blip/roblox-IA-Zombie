@@ -1,4 +1,5 @@
 --!strict
+-- Developed by Dogi
 -- Server-only integration examples:
 -- local ZombieService = require(game.ServerScriptService.ZombieSystem.ZombieService)
 -- local clone = workspace.Zombie:Clone(); clone.Parent = workspace; clone:PivotTo(CFrame.new(0, 5, 0))
