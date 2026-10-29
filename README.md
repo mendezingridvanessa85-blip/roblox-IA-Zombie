@@ -1,8 +1,10 @@
 # Roblox Zombie AI
 
+**Developed by Dogi**
+
 A server-authoritative R6 zombie AI system for Roblox Studio.
 
-Designed and implemented by **Kj52058** as a modular gameplay-programming portfolio project. The system is built to make an enemy feel persistent around obstacles instead of behaving like a single `MoveTo` call pointed at the player.
+A modular gameplay-programming portfolio project. The system is built to make an enemy feel persistent around obstacles instead of behaving like a single `MoveTo` call pointed at the player.
 
 ## Features
 
@@ -84,6 +86,3 @@ The demo geometry looks restrictive while preserving R6-safe navigation:
 
 Roblox PathfindingService depends on the engine navmesh. Ledge climbing, crawling, off-mesh traversal and fully custom movement need dedicated abilities beyond normal humanoid pathfinding.
 
-## Author
-
-**Kj52058**
