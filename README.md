@@ -1,6 +1,7 @@
 # Roblox Zombie AI
 
-**Developed by Dogi**
+**Made by Dogi**  
+Roblox accounts: [Carlos837474](https://www.roblox.com/users/profile?username=Carlos837474) and [Kj52058](https://www.roblox.com/users/profile?username=Kj52058)
 
 A server-authoritative R6 zombie AI system for Roblox Studio.
 
@@ -85,4 +86,3 @@ The demo geometry looks restrictive while preserving R6-safe navigation:
 ## Limits
 
 Roblox PathfindingService depends on the engine navmesh. Ledge climbing, crawling, off-mesh traversal and fully custom movement need dedicated abilities beyond normal humanoid pathfinding.
-
