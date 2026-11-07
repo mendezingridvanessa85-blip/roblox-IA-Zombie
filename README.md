@@ -1,7 +1,7 @@
 # Roblox Zombie AI
 
 **Made by Dogi**  
-Roblox accounts: [Carlos837474](https://www.roblox.com/users/profile?username=Carlos837474) and [Kj52058](https://www.roblox.com/users/profile?username=Kj52058)
+Roblox accounts: `Carlos837474` and `Kj52058`
 
 A server-authoritative R6 zombie AI system for Roblox Studio.
 
